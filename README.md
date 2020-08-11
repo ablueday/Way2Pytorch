@@ -1,9 +1,10 @@
 # Way2Pytorch
-个人 Pytorch 学习笔记
+> 个人 Pytorch 学习笔记
 
 
 pytorch 官网 https://pytorch.org/get-started/locally/
 
+## 安装
 [通过 conda 安装](https://pytorch.org/get-started/locally/#mac-anaconda)
 
 1，创建环境
@@ -40,7 +41,7 @@ tensor([[0.9729, 0.5000, 0.0495],
 
 ----
 
-# 参考
+## 参考
 
 pytorch 英文教程 https://pytorch.org/tutorials/
 
