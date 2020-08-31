@@ -61,6 +61,7 @@ Neural Networks and Deep Learning http://neuralnetworksanddeeplearning.com/
 
 python 中的多线程和多进程 https://zhuanlan.zhihu.com/p/39542342
 
+RNN https://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
 关于 python console 出错的解决方法 https://blog.csdn.net/qq_43275748/article/details/106375590
 
